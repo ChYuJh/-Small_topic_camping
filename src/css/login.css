@@ -1,0 +1,97 @@
+.login-background {
+  background-image: url(../../public/image/af3783a9e2ed2b7e26f982a276e2990c.jpg);
+}
+.login-background {
+  border: 1px solid transparent;
+}
+.login-page {
+  max-width: 700px;
+  height: 500px;
+  text-align: center;
+  background-color: rgba(122, 122, 122, 0.679);
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.925);
+  margin: 250px auto;
+}
+.login-page h3 {
+  margin: 25px 0;
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+.login-btn,
+.singup-btn {
+  padding: 10px 0 10px 0;
+  border: none;
+
+  margin: 0;
+  width: 50%;
+  font-size: 22px;
+  background-color: rgb(1, 1, 1);
+  color: floralwhite;
+}
+.login-btn {
+  position: absolute;
+  left: 0;
+  top: -10px;
+  border-radius: 15px 0 0 0;
+}
+.singup-btn {
+  position: absolute;
+  right: 0;
+  top: -10px;
+  border-radius: 0 15px 0 0;
+}
+#login,
+#singup {
+  text-align: center;
+  /* display: inline-block; */
+  /* border: 10px solid darkcyan; */
+}
+#login label,
+#singup label {
+  /* border: 1px solid red; */
+  vertical-align: middle;
+  line-height: 30px;
+  padding: 0 10px;
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+#login-account-input,
+#login-password-input,
+#singup-account-input,
+#singup-password-input,
+#singup-name-input {
+  /* border: 1px solid green; */
+  height: 50px;
+  margin-top: 15px;
+  width: 50%;
+  font-size: 20px;
+}
+
+#login,
+#singup {
+  /* border: 2px solid blue; */
+  /* margin: 50px auto; */
+  padding-top: 50px;
+}
+.login-go-btn,
+.singup-go-btn {
+  margin-top: 50px;
+  font-size: 25px;
+
+  background-color: red;
+  background-color: #010a04;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+
+  cursor: pointer;
+}
+.inputcontent {
+  vertical-align: middle;
+}

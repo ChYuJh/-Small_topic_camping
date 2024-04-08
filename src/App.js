@@ -1,25 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import Home from "./components/Home";
+import Classification from "./components/Classification";
+import Product from "./components/Product";
+import About from "./components/About";
+import Rule from "./components/Rule";
+import buyCart from "./components/buyCart";
+import Login from "./components/login";
+
+class App extends Component {
+  render() {
+    return (
+      <BrowserRouter>
+        <div>
+          {/* <Navigation /> */}
+          <Switch>
+            <Route path="/" component={Home} exact />
+            <Route path="/Home" component={Home} exact />
+            <Route path="/Classification" component={Classification} exact />
+            <Route
+              path="/Classification/:class"
+              component={Classification}
+              exact
+            />
+            <Route path="/Product/:id" component={Product} exact />
+            <Route path="/Rule" component={Rule} exact />
+            <Route path="/About" component={About} exact />
+            <Route path="/buyCart" component={buyCart} exact />
+            <Route path="/Login" component={Login} exact />
+          </Switch>
+        </div>
+      </BrowserRouter>
+    );
+  }
 }
 
 export default App;

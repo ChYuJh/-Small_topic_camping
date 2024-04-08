@@ -1,0 +1,508 @@
+[
+  {
+    "class": "cart",
+    "classCH": "露營推車",
+    "product": "摺疊露營手拉車",
+    "price": 150,
+    "priceStr": "NT$150/3日",
+    "id": "SKU-0354165406",
+    "url_image": "/image/cart/144408.png",
+    "url": "./web/cart_web/cart-1.html",
+    "feature": [
+      "全地形通用，推拉順滑",
+      "900D牛津布，高品防撕裂面料",
+      "大容量儲物空間，出遊超能裝"
+    ],
+    "Specification": {
+      "功能": "雙向可平躺輕量可摺疊",
+      "尺寸": "W77 × D47 × H52.3cm",
+      "重量": "約6.1~9KG",
+      "承重": "50公斤以上"
+    }
+  },
+  {
+    "class": "cart",
+    "classCH": "露營推車",
+    "product": "露營摺疊置物裝備車",
+    "price": 150,
+    "priceStr": "NT$150/3日",
+    "id": "SKU-0452137563",
+    "url_image": "/image/cart/144437.png",
+    "url": "./web/cart_web/cart-2.html",
+    "feature": ["600D牛津布,抗撕扯", "把手可以90度調整", "360度萬向輪設計"],
+    "Specification": {
+      "功能": "雙向可平躺輕量可收折",
+      "尺寸": "W70 × D50 × H60cm",
+      "重量": "約 6.3kg±5%",
+      "承重": "50公斤以上"
+    }
+  },
+  {
+    "class": "cart",
+    "classCH": "露營推車",
+    "product": "摺疊收納推車",
+    "price": 100,
+    "priceStr": "NT$100/3日",
+    "id": "SKU-0723819081",
+    "url_image": "/image/cart/145524.png",
+    "url": "./web/cart_web/cart-3.html",
+    "feature": ["最快5秒收納完成", "折疊收納不占空間", "高度調節輕鬆使用"],
+    "Specification": {
+      "功能": "輕量、可收折",
+      "尺寸": "W44 × D41 × H45m",
+      "重量": "約4KG",
+      "承重": "50公斤以上"
+    }
+  },
+
+  {
+    "class": "light",
+    "classCH": "露營燈",
+    "product": "復古冷暖三色溫露營燈",
+    "price": 200,
+    "priceStr": "NT$200/3日",
+    "id": "SKU-1149535506",
+    "url_image": "/image/light/150038.png",
+    "url": "./web/light_web/light-1.html",
+    "feature": [
+      "PX4防潑水，戶外使用無懼風雨",
+      "黃光/白光/黃白光，依需求調整",
+      "高旋鈕式無段調整亮度"
+    ],
+    "Specification": {
+      "使用時間": "【白/黃光】2.5~30小時(可調亮度) 【黃白光】1小時(僅最強光)",
+      "充電時間": "約3小時",
+      "色溫": "2700~6500K"
+    }
+  },
+  {
+    "class": "light",
+    "classCH": "露營燈",
+    "product": "USB充電式露營燈",
+    "price": 150,
+    "priceStr": "NT$150/3日",
+    "id": "SKU-1865470172",
+    "url_image": "/image/light/150447.png",
+    "url": "./web/light_web/light-2.html",
+    "feature": [
+      "高亮度雙排COB LED燈",
+      "光源分布均勻，照明更亮",
+      "提把設計，方便手提/吊掛/平放"
+    ],
+    "Specification": {
+      "使用時間": "約2~34小時",
+      "充電時間": "約2小時",
+      "色溫": "3000~3200K"
+    }
+  },
+  {
+    "class": "light",
+    "classCH": "露營燈",
+    "product": "萬用伸縮露營燈",
+    "price": 150,
+    "priceStr": "NT$100/3日",
+    "id": "SKU-9565433225",
+    "url_image": "/image/light/150751.png",
+    "url": "./web/light_web/light-3.html",
+    "feature": ["無段式色溫調整(白/黃)", "LED電量狀態顯示", "底部磁吸支架設計"],
+    "Specification": {
+      "使用時間": "約6-30小時",
+      "充電時間": "約4.5小時",
+      "色溫": "無段式色溫調整(白/黃)"
+    }
+  },
+
+  {
+    "class": "tables-chairs",
+    "classCH": "桌椅組",
+    "product": "露營折疊桌_中",
+    "price": 200,
+    "priceStr": "NT$200/3日",
+    "id": "SKU-1925692378",
+    "url_image": "/image/tables-chairs/155242.png",
+    "url": "./web/tables-chairs_web/tables-chairs-1.html",
+    "feature": [
+      "蛋捲折疊耐用防潑水 易清潔",
+      "輕量化碳鋼支架 交叉穩固承重",
+      "折疊快速收納不佔空間 附收納袋"
+    ],
+    "Specification": {
+      "內容": "桌面×1/桌架×1/支撐架(長)×2/支撐架(短)×2/收納袋×1",
+      "尺寸": "55.5 × 94.2cm",
+      "重量": "約4.1kg"
+    }
+  },
+  {
+    "class": "tables-chairs",
+    "classCH": "桌椅組",
+    "product": "露營折疊桌_大",
+    "price": 250,
+    "priceStr": "NT$250/3日",
+    "id": "SKU-2328532606",
+    "url_image": "/image/tables-chairs/155610.png",
+    "url": "./web/tables-chairs_web/tables-chairs-2.html",
+    "feature": ["結構穩定", "安裝簡單", "高承重力"],
+    "Specification": {
+      "內容": "桌面×1/桌架×1/支撐架(長)×2/支撐架(短)×2/收納袋×1",
+      "尺寸": "120 × 149cm",
+      "重量": "約3.1~5kg"
+    }
+  },
+  {
+    "class": "tables-chairs",
+    "classCH": "桌椅組",
+    "product": "露營摺疊椅",
+    "price": 100,
+    "priceStr": "NT$100/3日",
+    "id": "SKU-2809393662",
+    "url_image": "/image/tables-chairs/155859.png",
+    "url": "./web/tables-chairs_web/tables-chairs-3.html",
+    "feature": [
+      "升級版卡扣，札實穩定牢固",
+      "600D牛津布，耐磨透氣抗撕",
+      "小巧便攜，垂釣野餐多種場景皆適用"
+    ],
+    "Specification": {
+      "尺寸": "54 × 50 × 75cm",
+      "重量": "2.8kg",
+      "承重": "約100kg"
+    }
+  },
+  {
+    "class": "tables-chairs",
+    "classCH": "桌椅組",
+    "product": "渡假休閒椅",
+    "price": 100,
+    "priceStr": "NT$100/3日",
+    "id": "SKU-3077236916",
+    "url_image": "/image/tables-chairs/160123.png",
+    "url": "./web/tables-chairs_web/tables-chairs-4.html",
+    "feature": [
+      "大小適中、百搭配色，上山下海",
+      "扶手網布飲料架+椅背置物袋設計",
+      "可收束輕鬆攜帶，附收納袋"
+    ],
+    "Specification": {
+      "尺寸": "81 × 51 × 87 cm",
+      "重量": "約3.2kg",
+      "承重": "約80kg"
+    }
+  },
+  {
+    "class": "tables-chairs",
+    "classCH": "桌椅組",
+    "product": "可折疊式椅背",
+    "price": 200,
+    "priceStr": "NT$200/3日",
+    "id": "SKU-3512780188",
+    "url_image": "/image/tables-chairs/160304.png",
+    "url": "./web/tables-chairs_web/tables-chairs-5.html",
+    "feature": ["600D牛津布承重100公斤", "高強度鋁合金承重強", "加寬防滑腳墊"],
+    "Specification": {
+      "尺寸": "100 × 58 × 56 cm",
+      "重量": "約3.5kg",
+      "承重": "約100kg"
+    }
+  },
+  {
+    "class": "tables-chairs",
+    "classCH": "桌椅組",
+    "product": "便攜式折疊躺椅",
+    "price": 250,
+    "priceStr": "NT$250/3日",
+    "id": "SKU-4036676191",
+    "url_image": "/image/tables-chairs/160639.png",
+    "url": "./web/tables-chairs_web/tables-chairs-6.html",
+    "feature": [
+      "600D高強度牛津布材質抗撕裂",
+      "隨心調節90~165度 擺腳平",
+      "耐重140KG 易收合攜帶便利"
+    ],
+    "Specification": {
+      "尺寸": "160 × 53 × 76 cm",
+      "重量": "約3.4kg",
+      "承重": "約140kg"
+    }
+  },
+  {
+    "class": "tables-chairs",
+    "classCH": "桌椅組",
+    "product": "木紋鋁合金折疊椅",
+    "price": 100,
+    "priceStr": "NT$100/3日",
+    "id": "SKU-4144449031",
+    "url_image": "/image/tables-chairs/160904.png",
+    "url": "./web/tables-chairs_web/tables-chairs-7.html",
+    "feature": [
+      "鋁合金材質 結構穩固 承重力強",
+      "600D牛津布椅面 透氣不悶熱",
+      "分離式椅套 折疊設計 輕鬆收納"
+    ],
+    "Specification": {
+      "尺寸": "53 × 47 × 82 cm",
+      "重量": "約2.7kg",
+      "承重": "約100kg"
+    }
+  },
+  {
+    "class": "sleeping-pad",
+    "classCH": "睡墊",
+    "product": "雙面充氣床墊單人",
+    "price": 150,
+    "priceStr": "NT$150/3日",
+    "id": "SKU-4655556369",
+    "url_image": "/image/sleeping-pad/153741.png",
+    "url": "./web/sleeping-pad-product_web/sleeping-pad-product-1.html",
+    "feature": [
+      "一鍵自動充氣，內建高壓充氣幫浦",
+      "厚度達 14cm，遠離地面濕氣",
+      "新型波浪延伸結構，提供身體支撐力",
+      "輕巧快速摺疊，減少一半收納空間",
+      "支援 Type-C 充電，適用多種情境",
+      "IP68 防水，戶外下雨也不怕"
+    ],
+    "Specification": {
+      "尺寸": "190 × 63 × 8cm",
+      "重量": "約2.8kg"
+    }
+  },
+  {
+    "class": "sleeping-pad",
+    "classCH": "睡墊",
+    "product": "充氣睡墊單人",
+    "price": 200,
+    "priceStr": "NT$200/3日",
+    "id": "SKU-5104022148",
+    "url_image": "/image/sleeping-pad/154538.png",
+    "url": "./web/sleeping-pad-product_web/sleeping-pad-product-2.html",
+    "feature": [
+      "8cm理想厚度 軟硬適中",
+      "聚胺脂緩衝素材 享受舒適睡眠",
+      "採用防滑/防水處理等高規格加工"
+    ],
+    "Specification": {
+      "尺寸": "190 × 63 × 8cm",
+      "重量": "約2.5kg"
+    }
+  },
+
+  {
+    "class": "sleeping-pad",
+    "classCH": "睡墊",
+    "product": "加厚雙人充氣睡墊",
+    "price": 250,
+    "priceStr": "NT$200/3日",
+    "id": "SKU-5526673546",
+    "url_image": "/image/sleeping-pad/154828.png",
+    "url": "./web/sleeping-pad-product_web/sleeping-pad-product-3.html",
+    "feature": ["聚胺脂緩衝素材 享受舒適睡眠", "採用防滑/防水處理等高規格加工"],
+    "Specification": {
+      "尺寸": "200 × 132 × 10cm",
+      "重量": "約5.3kg"
+    }
+  },
+
+  {
+    "class": "tent",
+    "classCH": "帳篷",
+    "product": "提爾4人帳",
+    "price": 700,
+    "priceStr": "NT$700/3日",
+    "id": "SKU-5695038003",
+    "url_image": "/image/tent/151319.png",
+    "url": "./web/tent_web/tent-1.html",
+    "feature": [
+      "只需使用四支營柱即可搭設",
+      "全面地布，阻斷地面的冷氣和濕氣",
+      "四面門窗，側紗窗設計通風良好"
+    ],
+    "Specification": {
+      "內容": "外帳、內帳、地布、三角置物袋、外帳營柱、內帳營柱x2ea、後門支撐營柱、前庭營柱x2ea、營釘x19ea、營繩x8ea、收納袋",
+      "尺寸": "W420 × D270 × H170cm",
+      "重量": "12KG",
+      "建議適用人數": "3-4人"
+    }
+  },
+
+  {
+    "class": "tent",
+    "classCH": "帳篷",
+    "product": "多功能車尾帳",
+    "price": 600,
+    "priceStr": "NT$600/3日",
+    "id": "SKU-6561235621",
+    "url_image": "/image/tent/151637.png",
+    "url": "./web/tent_web/tent-2.html",
+    "feature": [
+      "提視野也與空間感，大面積紗窗",
+      "可以自由調整角度的兩段式前庭",
+      "前方和兩側都有足夠大小的出入口"
+    ],
+    "Specification": {
+      "內容": "外帳、內帳、地布、三角置物袋、外帳營柱、內帳營柱x2ea、後門支撐營柱、前庭營柱x2ea、營釘x19ea、營繩x8ea、收納袋",
+      "尺寸": "W420 × D270 × H170cm",
+      "重量": "12KG",
+      "建議適用人數": "3-4人"
+    }
+  },
+
+  {
+    "class": "tent",
+    "classCH": "帳篷",
+    "product": "Landnest帳棚天幕組",
+    "price": 900,
+    "priceStr": "NT$900/3日",
+    "id": "SKU-6879074191",
+    "url_image": "/image/tent/151849.png",
+    "url": "./web/tent_web/tent-3.html",
+    "feature": [
+      "三環隧道結構，中段獨特倒Y型",
+      "六角天幕高強度抗風性",
+      "前標配240cm鋼製營柱及營釘"
+    ],
+    "Specification": {
+      "內容": "帳篷本體、內帳、中央脊柱(×1)、A柱(×2)、前庭營柱(×2)、標準鋁質營釘(21cm×14)、附調節片營繩(2.5m×6)、維修管、本體攜行袋、營柱收納袋、營釘收納袋；[天幕]：天幕本體、鋼製營柱(240cm×2)、鋼製營釘(30cm×8)、付調節片營繩(雙頭營繩：10m×2、3m×4)、本體攜行袋、營柱收納袋、營釘收納袋",
+      "收納尺寸": "帳篷W70 ×D21×H25cm、天幕W75×D15×H18cm",
+      "重量": "帳篷8.7KG、天幕7.2KG"
+    }
+  },
+  {
+    "class": "tent",
+    "classCH": "帳篷",
+    "product": "速開客廳帳專用",
+    "price": 500,
+    "priceStr": "NT$500/3日",
+    "id": "SKU-7105619286",
+    "url_image": "/image/tent/152137.png",
+    "url": "./web/tent_web/tent-4.html",
+    "feature": [
+      "超簡易安裝，一掛即完成",
+      "銀膠塗層，有效阻隔紫外線",
+      "可搭配營柱，擴大遮陽空間"
+    ],
+    "Specification": {
+      "內容": "天幕本體、營柱X2、營釘X8、營繩X2、連結調整繩、本體攜行袋、營柱收納袋、營釘收納袋",
+      "尺寸": "W300 × H190cm",
+      "重量": "0.65KG"
+    }
+  },
+  {
+    "class": "tent",
+    "classCH": "帳篷",
+    "product": "一房一廳_客廳帳",
+    "price": 1200,
+    "priceStr": "NT$1200/3日",
+    "id": "SKU-9689891001",
+    "url_image": "/image/tent/152530.png",
+    "url": "./web/tent_web/tent-5.html",
+    "feature": [
+      "優異遮陽抗UV寬敞2-ROOM",
+      "寬幅透氣紗網通風性提升1.5倍",
+      "晝夜活動都舒適，家庭露營首選"
+    ],
+    "Specification": {
+      "內容": "前庭、電線導口、營燈掛勾、紗門、循環透氣、STORMGUARD、網狀置物袋、側邊窗、吊掛式內帳、頂掛式外帳、前庭柱×2、營鎚、營釘、營繩、網狀掛網、收納袋",
+      "尺寸": "W610 × D365 × H220cm",
+      "重量": "21KG",
+      "建議適用人數": "4~5人"
+    }
+  },
+
+  {
+    "class": "tent",
+    "classCH": "帳篷",
+    "product": "印地安3人帳",
+    "price": 700,
+    "priceStr": "NT$700/3日",
+    "id": "SKU-7785039213",
+    "url_image": "/image/tent/DOD-印地安酋長.png",
+    "url": "./web/tent_web/tent-6.html",
+    "feature": ["輕鬆搭建", "新手首選", "全面地布，阻斷地面的冷氣和濕氣"],
+    "Specification": {
+      "內容": "帳篷外帳X1、帳篷內帳X1、營柱X2、專用營釘X20、本體攜行袋、營柱收納袋、營釘收納袋",
+      "尺寸": "W320 × D270 × H170cm",
+      "重量": "3.1KG",
+      "建議適用人數": "2人(寬敞)/最多3人"
+    }
+  },
+
+  {
+    "class": "keep-fresh",
+    "classCH": "保鮮",
+    "product": "拉桿冰桶",
+    "price": 200,
+    "priceStr": "NT$200/3日",
+    "id": "SKU-8075715250",
+    "url_image": "/image/keep-fresh/162959.png",
+    "url": "./web/keep-fresh_web/keep-fresh-1.html",
+    "feature": [
+      "兩側內凹式把手，方便提起、搬運",
+      "鎖定式伸縮拉桿加底部雙輪",
+      "底部排水閥"
+    ],
+    "Specification": {
+      "尺寸": "70 × 45 × 50cm",
+      "重量": "3KG"
+    }
+  },
+
+  {
+    "class": "keep-fresh",
+    "classCH": "保鮮",
+    "product": "全自動極速製冰機",
+    "price": 350,
+    "priceStr": "NT$350/3日",
+    "id": "SKU-8180199377",
+    "url_image": "/image/keep-fresh/193643.png",
+    "url": "./web/keep-fresh_web/keep-fresh-2.html",
+    "feature": [
+      "任選大/小冰塊，自製冰塊更衛生",
+      "不鏽鋼機身、透明視窗設計",
+      "易清潔保養，低噪音"
+    ],
+    "Specification": {
+      "內容": "桌面×1/桌架×1/支撐架(長)×2/支撐架(短)×2/收納袋×1",
+      "尺寸": "29.5 × 23.5 × 28.7cm",
+      "製冰時間": "約6-8min"
+    }
+  },
+  {
+    "class": "other",
+    "classCH": "其他",
+    "product": "延長線",
+    "price": 100,
+    "priceStr": "NT$100/3日",
+    "id": "SKU-8713115615",
+    "url_image": "/image/other/162217.png",
+    "url": "./web/other_web/other-1.html",
+    "feature": [
+      "兩側內凹式把手，方便提起、搬運",
+      "鎖定式伸縮拉桿加底部雙輪",
+      "底部排水閥"
+    ],
+    "Specification": {
+      "尺寸": "機身-約14x14x3.5cm / 線徑-約2.0m㎡ / 線長-約1.8M",
+      "使用電壓": "AC 110V",
+      "插座": "3P(插孔)x5插座(組)+1PD孔+2USB孔",
+      "USB輸出": "PD:DC5V/3A,9V/2A,12V/1.5A、 USB：DC 5V/2.4A"
+    }
+  },
+  {
+    "class": "other",
+    "classCH": "其他",
+    "product": "照明露營風扇",
+    "price": 200,
+    "priceStr": "NT$200/3日",
+    "id": "SKU-9294184331",
+    "url_image": "/image/other/162605.png",
+    "url": "./web/other_web/other-2.html",
+    "feature": ["遙控機身雙控制", "兩段照明", "四段風速"],
+    "Specification": {
+      "LED燈": "冷白燈(二段調節)",
+      "風速調節": "四段風速+自然風模式",
+      "充電方式": "USBTYPEC充電",
+      "充電時間": "快充約7小時",
+      "使用時間": "最大風量約3.5小時 最小風量約18小時(會依據風速而定)"
+    }
+  }
+]
