@@ -45,8 +45,8 @@ class buyCart extends Component {
       return;
     }
     document.querySelector(".pay-form").style.display = "none";
-    await axios.delete("http://localhost:8000/delete/carts").then(() => {
-      let result = axios.get("http://localhost:8000/carts");
+    await axios.delete("http://localhost:8000/delete/carts").then(async () => {
+      let result = await axios.get("http://localhost:8000/carts");
       newState.carts = result.data;
       let totalPrice = 0;
       newState.totalPrice = totalPrice;
@@ -79,18 +79,21 @@ class buyCart extends Component {
         return;
       }
 
-      await axios.delete(`http://localhost:8000/delete/carts/${index}`);
-      const response = await axios.get("http://localhost:8000/carts");
-      const carts = response.data;
-      let totalPrice = 0;
-      carts.forEach((item) => {
-        totalPrice += item.price;
-      });
+      await axios
+        .delete(`http://localhost:8000/delete/carts/${index}`)
+        .then(async () => {
+          const response = await axios.get("http://localhost:8000/carts");
+          const carts = response.data;
+          let totalPrice = 0;
+          carts.forEach((item) => {
+            totalPrice += item.price;
+          });
 
-      this.setState({
-        carts: carts,
-        totalPrice: totalPrice,
-      });
+          this.setState({
+            carts: carts,
+            totalPrice: totalPrice,
+          });
+        });
     } catch (error) {
       console.error("Error:", error);
     }

@@ -857,6 +857,7 @@ iframe {
 }
 .buy-cart-table {
   margin: 0px auto;
+  max-width: 1000px;
 }
 .graphics-text {
   display: flex;

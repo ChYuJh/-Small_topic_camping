@@ -7,6 +7,8 @@ class Login extends Component {
     registerName: "",
     email: "",
     password: "",
+    loginPassword: "",
+    loginEmail: "",
   };
 
   //註冊、登入頁面切換
@@ -78,13 +80,15 @@ class Login extends Component {
   //檢查註冊密碼是否符合格式
   passwordCheck = () => {
     let newState = { ...this.state };
-    let rules = new RegExp(/^.{5,}$/);
+    let rules = new RegExp(/^[a-zA-Z0-9@]{5,}$/);
     newState.password = rules.test(newState.password) ? newState.password : "";
-    swal({
-      title: "密碼不得少於5個字元",
-      icon: "warning",
-      dangerMode: true,
-    });
+    if (!newState.password) {
+      swal({
+        title: "密碼只接受英文字母、數字和@符號且不得少於5個字元",
+        icon: "warning",
+        dangerMode: true,
+      });
+    }
   };
 
   //送出註冊
@@ -134,10 +138,11 @@ class Login extends Component {
   loginSubmit = async () => {
     let result = await axios.get("http://localhost:8000/user/login");
     let newState = { ...this.state };
+    console.log(newState);
     for (let i = 0; i < result.data.length; i++) {
       if (
         result.data[i].useremail === newState.loginEmail &&
-        result.data[i].userpassword == newState.loginPassword
+        result.data[i].userpassword === newState.loginPassword
       ) {
         let userobj = JSON.stringify({
           userName: result.data[i].userName,
@@ -146,12 +151,32 @@ class Login extends Component {
         window.location.replace("./Home");
         return;
       }
-      swal({
-        title: "信箱或密碼輸入錯誤",
-        icon: "warning",
-        dangerMode: true,
-      });
+      if (
+        result.data[i].useremail === newState.loginEmail &&
+        result.data[i].userpassword !== newState.loginPassword
+      ) {
+        swal({
+          title: "信箱或密碼輸入錯誤",
+          icon: "warning",
+          dangerMode: true,
+        });
+        return;
+      }
+      if (newState.loginEmail === "" || newState.loginPassword === "") {
+        swal({
+          title: "請填入信箱與密碼",
+          icon: "warning",
+          dangerMode: true,
+        });
+        return;
+      }
     }
+
+    swal({
+      title: "帳號不存在",
+      icon: "warning",
+      dangerMode: true,
+    });
   };
 
   render() {

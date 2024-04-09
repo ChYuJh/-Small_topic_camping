@@ -7,7 +7,6 @@
     "priceStr": "NT$150/3日",
     "id": "SKU-0354165406",
     "url_image": "/image/cart/144408.png",
-    "url": "./web/cart_web/cart-1.html",
     "feature": [
       "全地形通用，推拉順滑",
       "900D牛津布，高品防撕裂面料",
@@ -28,7 +27,6 @@
     "priceStr": "NT$150/3日",
     "id": "SKU-0452137563",
     "url_image": "/image/cart/144437.png",
-    "url": "./web/cart_web/cart-2.html",
     "feature": ["600D牛津布,抗撕扯", "把手可以90度調整", "360度萬向輪設計"],
     "Specification": {
       "功能": "雙向可平躺輕量可收折",
@@ -45,7 +43,6 @@
     "priceStr": "NT$100/3日",
     "id": "SKU-0723819081",
     "url_image": "/image/cart/145524.png",
-    "url": "./web/cart_web/cart-3.html",
     "feature": ["最快5秒收納完成", "折疊收納不占空間", "高度調節輕鬆使用"],
     "Specification": {
       "功能": "輕量、可收折",
@@ -63,7 +60,6 @@
     "priceStr": "NT$200/3日",
     "id": "SKU-1149535506",
     "url_image": "/image/light/150038.png",
-    "url": "./web/light_web/light-1.html",
     "feature": [
       "PX4防潑水，戶外使用無懼風雨",
       "黃光/白光/黃白光，依需求調整",
@@ -83,7 +79,6 @@
     "priceStr": "NT$150/3日",
     "id": "SKU-1865470172",
     "url_image": "/image/light/150447.png",
-    "url": "./web/light_web/light-2.html",
     "feature": [
       "高亮度雙排COB LED燈",
       "光源分布均勻，照明更亮",
@@ -103,7 +98,6 @@
     "priceStr": "NT$100/3日",
     "id": "SKU-9565433225",
     "url_image": "/image/light/150751.png",
-    "url": "./web/light_web/light-3.html",
     "feature": ["無段式色溫調整(白/黃)", "LED電量狀態顯示", "底部磁吸支架設計"],
     "Specification": {
       "使用時間": "約6-30小時",
@@ -120,7 +114,6 @@
     "priceStr": "NT$200/3日",
     "id": "SKU-1925692378",
     "url_image": "/image/tables-chairs/155242.png",
-    "url": "./web/tables-chairs_web/tables-chairs-1.html",
     "feature": [
       "蛋捲折疊耐用防潑水 易清潔",
       "輕量化碳鋼支架 交叉穩固承重",
@@ -140,7 +133,6 @@
     "priceStr": "NT$250/3日",
     "id": "SKU-2328532606",
     "url_image": "/image/tables-chairs/155610.png",
-    "url": "./web/tables-chairs_web/tables-chairs-2.html",
     "feature": ["結構穩定", "安裝簡單", "高承重力"],
     "Specification": {
       "內容": "桌面×1/桌架×1/支撐架(長)×2/支撐架(短)×2/收納袋×1",
@@ -156,7 +148,6 @@
     "priceStr": "NT$100/3日",
     "id": "SKU-2809393662",
     "url_image": "/image/tables-chairs/155859.png",
-    "url": "./web/tables-chairs_web/tables-chairs-3.html",
     "feature": [
       "升級版卡扣，札實穩定牢固",
       "600D牛津布，耐磨透氣抗撕",
@@ -176,7 +167,6 @@
     "priceStr": "NT$100/3日",
     "id": "SKU-3077236916",
     "url_image": "/image/tables-chairs/160123.png",
-    "url": "./web/tables-chairs_web/tables-chairs-4.html",
     "feature": [
       "大小適中、百搭配色，上山下海",
       "扶手網布飲料架+椅背置物袋設計",
@@ -196,7 +186,6 @@
     "priceStr": "NT$200/3日",
     "id": "SKU-3512780188",
     "url_image": "/image/tables-chairs/160304.png",
-    "url": "./web/tables-chairs_web/tables-chairs-5.html",
     "feature": ["600D牛津布承重100公斤", "高強度鋁合金承重強", "加寬防滑腳墊"],
     "Specification": {
       "尺寸": "100 × 58 × 56 cm",
@@ -212,7 +201,6 @@
     "priceStr": "NT$250/3日",
     "id": "SKU-4036676191",
     "url_image": "/image/tables-chairs/160639.png",
-    "url": "./web/tables-chairs_web/tables-chairs-6.html",
     "feature": [
       "600D高強度牛津布材質抗撕裂",
       "隨心調節90~165度 擺腳平",
@@ -232,7 +220,6 @@
     "priceStr": "NT$100/3日",
     "id": "SKU-4144449031",
     "url_image": "/image/tables-chairs/160904.png",
-    "url": "./web/tables-chairs_web/tables-chairs-7.html",
     "feature": [
       "鋁合金材質 結構穩固 承重力強",
       "600D牛津布椅面 透氣不悶熱",
@@ -252,7 +239,6 @@
     "priceStr": "NT$150/3日",
     "id": "SKU-4655556369",
     "url_image": "/image/sleeping-pad/153741.png",
-    "url": "./web/sleeping-pad-product_web/sleeping-pad-product-1.html",
     "feature": [
       "一鍵自動充氣，內建高壓充氣幫浦",
       "厚度達 14cm，遠離地面濕氣",
@@ -274,7 +260,6 @@
     "priceStr": "NT$200/3日",
     "id": "SKU-5104022148",
     "url_image": "/image/sleeping-pad/154538.png",
-    "url": "./web/sleeping-pad-product_web/sleeping-pad-product-2.html",
     "feature": [
       "8cm理想厚度 軟硬適中",
       "聚胺脂緩衝素材 享受舒適睡眠",
@@ -294,7 +279,6 @@
     "priceStr": "NT$200/3日",
     "id": "SKU-5526673546",
     "url_image": "/image/sleeping-pad/154828.png",
-    "url": "./web/sleeping-pad-product_web/sleeping-pad-product-3.html",
     "feature": ["聚胺脂緩衝素材 享受舒適睡眠", "採用防滑/防水處理等高規格加工"],
     "Specification": {
       "尺寸": "200 × 132 × 10cm",
@@ -310,7 +294,6 @@
     "priceStr": "NT$700/3日",
     "id": "SKU-5695038003",
     "url_image": "/image/tent/151319.png",
-    "url": "./web/tent_web/tent-1.html",
     "feature": [
       "只需使用四支營柱即可搭設",
       "全面地布，阻斷地面的冷氣和濕氣",
@@ -332,7 +315,6 @@
     "priceStr": "NT$600/3日",
     "id": "SKU-6561235621",
     "url_image": "/image/tent/151637.png",
-    "url": "./web/tent_web/tent-2.html",
     "feature": [
       "提視野也與空間感，大面積紗窗",
       "可以自由調整角度的兩段式前庭",
@@ -354,7 +336,6 @@
     "priceStr": "NT$900/3日",
     "id": "SKU-6879074191",
     "url_image": "/image/tent/151849.png",
-    "url": "./web/tent_web/tent-3.html",
     "feature": [
       "三環隧道結構，中段獨特倒Y型",
       "六角天幕高強度抗風性",
@@ -374,7 +355,6 @@
     "priceStr": "NT$500/3日",
     "id": "SKU-7105619286",
     "url_image": "/image/tent/152137.png",
-    "url": "./web/tent_web/tent-4.html",
     "feature": [
       "超簡易安裝，一掛即完成",
       "銀膠塗層，有效阻隔紫外線",
@@ -394,7 +374,6 @@
     "priceStr": "NT$1200/3日",
     "id": "SKU-9689891001",
     "url_image": "/image/tent/152530.png",
-    "url": "./web/tent_web/tent-5.html",
     "feature": [
       "優異遮陽抗UV寬敞2-ROOM",
       "寬幅透氣紗網通風性提升1.5倍",
@@ -416,7 +395,6 @@
     "priceStr": "NT$700/3日",
     "id": "SKU-7785039213",
     "url_image": "/image/tent/DOD-印地安酋長.png",
-    "url": "./web/tent_web/tent-6.html",
     "feature": ["輕鬆搭建", "新手首選", "全面地布，阻斷地面的冷氣和濕氣"],
     "Specification": {
       "內容": "帳篷外帳X1、帳篷內帳X1、營柱X2、專用營釘X20、本體攜行袋、營柱收納袋、營釘收納袋",
@@ -434,7 +412,6 @@
     "priceStr": "NT$200/3日",
     "id": "SKU-8075715250",
     "url_image": "/image/keep-fresh/162959.png",
-    "url": "./web/keep-fresh_web/keep-fresh-1.html",
     "feature": [
       "兩側內凹式把手，方便提起、搬運",
       "鎖定式伸縮拉桿加底部雙輪",
@@ -454,7 +431,6 @@
     "priceStr": "NT$350/3日",
     "id": "SKU-8180199377",
     "url_image": "/image/keep-fresh/193643.png",
-    "url": "./web/keep-fresh_web/keep-fresh-2.html",
     "feature": [
       "任選大/小冰塊，自製冰塊更衛生",
       "不鏽鋼機身、透明視窗設計",
@@ -474,7 +450,6 @@
     "priceStr": "NT$100/3日",
     "id": "SKU-8713115615",
     "url_image": "/image/other/162217.png",
-    "url": "./web/other_web/other-1.html",
     "feature": [
       "兩側內凹式把手，方便提起、搬運",
       "鎖定式伸縮拉桿加底部雙輪",
@@ -495,7 +470,6 @@
     "priceStr": "NT$200/3日",
     "id": "SKU-9294184331",
     "url_image": "/image/other/162605.png",
-    "url": "./web/other_web/other-2.html",
     "feature": ["遙控機身雙控制", "兩段照明", "四段風速"],
     "Specification": {
       "LED燈": "冷白燈(二段調節)",

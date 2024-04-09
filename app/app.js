@@ -148,7 +148,6 @@ app.post("/create/carts", function (req, res) {
     days: req.body.days,
     method: req.body.method,
   };
-  console.log(item);
   cartList.push(item);
   fs.writeFileSync("../cartData.json", JSON.stringify(cartList, null, "\t"));
   res.send("row inserted.");
@@ -158,7 +157,6 @@ app.post("/create/carts", function (req, res) {
 app.get("/carts", function (req, res) {
   var data = fs.readFileSync(cartData);
   var cartList = JSON.parse(data);
-  console.log(cartList);
   res.send(JSON.stringify(cartList));
 });
 
@@ -167,7 +165,6 @@ app.delete("/delete/carts", function (req, res) {
   var data = fs.readFileSync(cartData);
   var cartList = JSON.parse(data);
   cartList = [];
-  console.log(cartList);
   fs.writeFileSync("../cartData.json", JSON.stringify(cartList, null, "\t"));
   res.send(JSON.stringify(cartList));
 });
@@ -178,8 +175,8 @@ app.delete("/delete/carts/:id", function (req, res) {
   console.log(index);
   var data = fs.readFileSync(cartData);
   var cartList = JSON.parse(data);
-  console.log(cartList);
-  cartList = cartList.splice(index, 1);
+  cartList.splice(index, 1);
+  console.log("cartList", cartList);
   fs.writeFileSync("../cartData.json", JSON.stringify(cartList, null, "\t"));
   res.send(JSON.stringify(cartList));
 });

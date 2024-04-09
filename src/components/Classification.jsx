@@ -5,6 +5,7 @@ import axios from "axios";
 class Classification extends Component {
   state = {
     userName: "",
+    data: [{ classCH: "" }],
   };
   //登出
   logout = () => {
@@ -33,9 +34,6 @@ class Classification extends Component {
     angleDown.classList.toggle("show");
   };
   render() {
-    if (!Array.isArray(this.state.data)) {
-      return <div>No data available</div>;
-    }
     return (
       <React.Fragment>
         <nav>
@@ -48,7 +46,7 @@ class Classification extends Component {
                 <a href="/Home">首頁</a>
               </li>
               <li>
-                <a href="/Classification" id="active">
+                <a href="#" id="active">
                   所有商品
                 </a>
               </li>

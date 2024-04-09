@@ -8,7 +8,7 @@ class Product extends Component {
   state = {
     userName: "",
     quantity: 1,
-    startDate: new Date(),
+    startDate: null,
     endDate: null,
     showDatePicker: false,
     method: "",
